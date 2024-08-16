@@ -52,7 +52,7 @@ export default defineConfig(({ mode }) => {
         },
         manifest: {
           name: "今日热榜",
-          short_name: "DailyHot",
+          short_name: "今日热榜",
           description: "汇聚全网热点，热门尽览无余",
           display: "standalone",
           start_url: "/",
